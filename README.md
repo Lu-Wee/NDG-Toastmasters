@@ -1,3 +1,6 @@
+The purpose of this site is to simplify the creation of PDF agendas and Feedback reports for NDG Leaders
+
+
 # CodeIgniter 4 Application Starter
 
 ## What is CodeIgniter?
